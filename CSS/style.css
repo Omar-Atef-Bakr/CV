@@ -1,0 +1,17 @@
+body {
+    color: #E5BEEC;
+    background-color: #917FB3;
+    font-size: larger
+}
+
+hr {
+    background-color: transparent;
+    border-style: none ;
+    width: 50%;
+    height: 6px;
+    border-top: dotted;
+    border-radius: 1px;
+    border-color: #E5BEEC;
+    border-width: 4px;
+    /* border-bottom: dotted; */
+}
